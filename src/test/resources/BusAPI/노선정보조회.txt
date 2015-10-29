@@ -11,3 +11,27 @@
 	
 	CoC (Convention over Configuration)
 	
+	Expression(식)
+	
+	1. Arithmetic Expression(수식)
+		ex) 4 * (3 + 5) / (5 - 4)
+		
+	2. Reqular Expression(정규 표현식)
+		ex) [a-zA-Z][0-9]
+		
+	3. Selector Expression(CSS)
+		ex) h1 > div[class*=xxx]
+		ex) #box
+		
+	4. EL(Expression Language) <===  <%= %>
+		${1 + 2}
+		
+	5. XPath Expression
+		ex) //itemList	
+	
+	
+	
+	
+			
+	
+	
